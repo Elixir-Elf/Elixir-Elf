@@ -1,4 +1,5 @@
 <div id="header" align="center">
+
   <img src="https://i.ibb.co/L6bxK5Z/mcdonalds-removebg-preview.png" width="120"/>
 
   <img src="https://komarev.com/ghpvc/?username=Elixir-Elf&style=flat-square" alt="Profile Views"/>
@@ -14,4 +15,5 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elixir-Elf&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </a>
+
 </div>
