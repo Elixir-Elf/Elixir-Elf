@@ -1,16 +1,15 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.ibb.co/L6bxK5Z/mcdonalds-removebg-preview.png" width="120"/>
 
-<!--
-**Elixir-Elf/Elixir-Elf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://komarev.com/ghpvc/?username=Elixir-Elf&style=flat-square)" alt=""/>
+  <h1>
+  <img src="" width="30px"/>
+  Elixir-Elf
+</h1>   
+<img src=""
 
-Here are some ideas to get you started:
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elixir-Elf&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="(https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elixir-Elf&layout=compact&theme=dark&hide_border=true">
+</div>
+
