@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/L6bxK5Z/mcdonalds-removebg-preview.png"  />
+  <img height="200" src="https://i.ibb.co/nfvv7zb/6fae5ff4702cf368b88520a1ee38668d.png"  />
 </div>
 
 ###
